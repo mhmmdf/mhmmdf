@@ -16,9 +16,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```yaml
+```
 name        : Muhammad Fikri Arzyah
 alias       : Arzy
 education   : S1 Teknik Informatika – Universitas Pamulang (IPK 3.62)
@@ -106,9 +106,9 @@ focus       : Web Development · Mobile Apps
 
 | Project | Platform | Highlight |
 |---|---|---|
-| **PayNearby** – E-Wallet | Android + Web | 2FA, enkripsi, REST API, caching |
+| **PayNearby** – E-Wallet | Android + Web | 2FA, enkripsi, REST API, caching, liveness |
 | **PijatPro** – Booking Pijat | Android + Web | GPS realtime, Leaflet.js, radius search |
-| **SIM Sekolah Alam Cairo** | Web | Absensi, jadwal otomatis, notif SMS & email |
+| **SIM Sekolah Alam Cairo** | Web | Absensi, jadwal otomatis, e-Rapor |
 | **Absensi Puskod Kemhan** | Web | Face recognition, GPS, dashboard analitik |
 | **Megabyte Toko Elektronik** | Web | E-commerce, payment gateway, SEO optimized |
 | **Bamboo Art Furniture** | Web | Katalog, cart, otomatis ongkir & diskon |
