@@ -116,7 +116,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mhmmdf&theme=radical&no-frame=true&margin-w=4" width="100%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mhmmdf&theme=aura&column=3&margin-w=15&margin-h=15" width="60%" />
 </div>
 
 ---
