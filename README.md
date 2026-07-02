@@ -111,18 +111,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdf&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFD700&currStreakLabel=FF6B9D&border_radius=15" width="49%" />
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mhmmdf&theme=aura&column=3&margin-w=15&margin-h=15" width="60%" />
-</div>
-
----
-
-## Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmmdf&theme=redical&bg_color=0D1117&color=FF6B9D&line=FFD700&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
