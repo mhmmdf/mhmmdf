@@ -107,7 +107,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=ffffff&border_radius=15&include_all_commits=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mhmmdf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFD700&text_color=ffffff&border_radius=15&include_all_commits=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdf&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFD700&currStreakLabel=FF6B9D&border_radius=15" width="49%" />
 </div>
 
